@@ -1,8 +1,1 @@
 My first readme
-^C
-
-
-
-
-
-
